@@ -1,0 +1,14 @@
+﻿  OLC_Engine_3d.cpp
+C:\Users\Валентин\source\repos\OLC_Engine_3d\OLC_Engine_3d\OLC_Engine_3d.cpp(143,1): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Валентин\source\repos\OLC_Engine_3d\OLC_Engine_3d\OLC_Engine_3d.cpp(144,1): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Валентин\source\repos\OLC_Engine_3d\OLC_Engine_3d\OLC_Engine_3d.cpp(145,1): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Валентин\source\repos\OLC_Engine_3d\OLC_Engine_3d\OLC_Engine_3d.cpp(146,1): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Валентин\source\repos\OLC_Engine_3d\OLC_Engine_3d\OLC_Engine_3d.cpp(147,1): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Валентин\source\repos\OLC_Engine_3d\OLC_Engine_3d\OLC_Engine_3d.cpp(148,1): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Валентин\source\repos\OLC_Engine_3d\OLC_Engine_3d\OLC_Engine_3d.cpp(154,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Валентин\source\repos\OLC_Engine_3d\OLC_Engine_3d\OLC_Engine_3d.cpp(154,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Валентин\source\repos\OLC_Engine_3d\OLC_Engine_3d\OLC_Engine_3d.cpp(153,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Валентин\source\repos\OLC_Engine_3d\OLC_Engine_3d\OLC_Engine_3d.cpp(153,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Валентин\source\repos\OLC_Engine_3d\OLC_Engine_3d\OLC_Engine_3d.cpp(152,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Валентин\source\repos\OLC_Engine_3d\OLC_Engine_3d\OLC_Engine_3d.cpp(152,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  OLC_Engine_3d.vcxproj -> C:\Users\Валентин\source\repos\OLC_Engine_3d\Debug\OLC_Engine_3d.exe
